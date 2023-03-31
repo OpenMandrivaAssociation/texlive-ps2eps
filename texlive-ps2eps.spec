@@ -1,6 +1,6 @@
 Name:		texlive-ps2eps
 Version:	62856
-Release:	1
+Release:	2
 Summary:	Produce Encapsulated PostScript from PostScript
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ps2eps
