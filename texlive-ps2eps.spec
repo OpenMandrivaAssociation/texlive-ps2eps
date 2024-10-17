@@ -3,7 +3,7 @@ Version:	62856
 Release:	2
 Summary:	Produce Encapsulated PostScript from PostScript
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ps2eps
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ps2eps
 License:	gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ps2eps.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ps2eps.doc.r%{version}.tar.xz
